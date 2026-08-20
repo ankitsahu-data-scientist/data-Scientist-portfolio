@@ -1,67 +1,83 @@
-# data-Scientist-portfolio
-28-week Data Scientist &amp; Data Science learning journey — Excel, SQL, Python, Power BI, Tableau, ML
+# Data Analytics & Data Science Portfolio — Ankit Sahu
 
-About Me
-My name is ankit sahu I am an aspiring Data Scientist who is following a 28-week structured curriculum.
+> Practical projects in Excel, Statistics, SQL, Power BI, Tableau and Python.
 
-Skills (In Progress)
-Excel (Week 1–3) ✅
-Statistics (Week 4–6)
-SQL (Week 7–10)
-Power BI & Tableau (Week 14–19)
-Python & Machine Learning (Week 21–28)
-Projects
-Week	Project	Tools	Status
-Week 1	Sales Data Analysis	Excel	✅ Done
-Contact
+## 👋 About Me
 
-Email: ankitsahu65781@gmail.com
+I am an aspiring data professional and BCA graduate from Raipur, Chhattisgarh. I am building hands-on experience by working through real-world style datasets and business problems.
 
-## week 1 project [view project]
-week1-excel/week1-excel placeholder.txt
+My focus is on **data cleaning, SQL analysis, dashboard development, visualization, and extracting actionable insights from data**.
 
+## 🧰 Skills
 
-Week 1 — Excel Sales Data Scientist
-Project Overview
+| Area | Skills |
+|---|---|
+| Spreadsheets | Excel, formulas, PivotTables, dashboards |
+| Statistics | Descriptive statistics, probability, hypothesis testing, correlation |
+| Databases | SQL, joins, subqueries, aggregations |
+| BI & Visualization | Power BI, Tableau, Excel charts |
+| Programming | Python fundamentals, data analysis |
+| Data Workflow | Cleaning → analysis → visualization → insights |
 
-Analyzed real-world sales data in Excel using formulas, data cleaning techniques, and PivotTables.
+## 🚀 Featured Projects
 
-What I Did
-Organized monthly sales data for 5 products
-Performed data cleaning using TRIM and PROPER functions to correct names
-Used formulas such as SUM, AVERAGE, MAX, MIN, IF, and VLOOKUP
-Created 3 PivotTables to analyze data by Region, Product, and Month
-Key Findings
-Total Sales: ₹3,49,000
-Best-Selling Product: Laptop (₹1,20,000)
-Average Sales per Product: ₹69,800
-Tools Used
-Microsoft Excel 2021
-File
-week1_sales_analysis.xlsx
+### 1. Amazon Sales & Customer Analytics
+**Tools:** SQL, Excel, Python, Power BI
 
+Analyzed sales and customer data to understand revenue, product performance, rankings, and repeat-customer behavior.
 
+**Focus:** ETL, data cleaning, business metrics, customer analysis and dashboarding.
 
-# Week 2 — Sales Dashboard (Excel)
+### 2. Power BI Capstone Dashboard
+**Tools:** Power BI, Excel
 
-## Project Overview
-Multi-sheet Excel dashboard with advanced formulas
-and charts for sales data analysis.
+Built an interactive business dashboard with KPI reporting, visual analysis and decision-oriented reporting.
 
-## What I Built
-- 3-sheet workbook: RawData, Analysis, Dashboard
-- SUMIF: Region-wise sales breakdown
-- COUNTIF: Order count per salesperson
-- SUMIFS: Month + Region combined analysis
-- Nested IF: Product performance rating
-- INDEX+MATCH: Auto best region/seller finder
-- 2 Charts: Bar + Column visualization
+### 3. Advanced SQL Analysis
+**Tools:** SQL
 
-## Key Findings
-- Total Sales: Rs 7,16,000
-- Best Region: North (Rs 2,27,000)
-- Top Salesperson: Priya (Rs 2,84,000)
-- Best Product: Laptop (Excellent rating)
+Practiced real-world analytical queries using joins, subqueries, aggregations and business-focused questions.
 
-## Tools
-Microsoft Excel | Advanced Formulas | Charts
+### 4. Tableau Data Storytelling
+**Tools:** Tableau
+
+Created interactive visualizations designed to communicate trends and business insights clearly.
+
+### 5. Excel Sales Analysis
+**Tools:** Excel
+
+Cleaned sales data, applied formulas and PivotTables, and created summary dashboards for regional, product and salesperson analysis.
+
+## 📈 Learning Roadmap
+
+- **Excel & Data Analysis:** Weeks 1–3
+- **Statistics:** Weeks 4–6
+- **SQL:** Weeks 7–10
+- **Power BI & Tableau:** Weeks 14–19
+- **Python & Machine Learning:** Weeks 21–28
+
+The week numbers describe the learning curriculum; the projects themselves are presented as practical portfolio work.
+
+## 🔍 What I Practice in Every Project
+
+1. Understand the business question
+2. Inspect and clean the dataset
+3. Select useful metrics
+4. Analyze patterns and relationships
+5. Build clear visualizations
+6. Extract actionable insights
+7. Document the methodology and results
+
+## 🎯 Career Goal
+
+I am looking for an entry-level **Data Analyst / BI / Analytics** opportunity where I can work with real datasets, build useful reports and dashboards, and grow through practical business problems.
+
+## 📫 Contact
+
+**Email:** ankitsahu65781@gmail.com
+
+---
+
+### Portfolio principle
+
+**Don't just show the chart. Explain the problem, the analysis, the insight, and why the insight matters.**
